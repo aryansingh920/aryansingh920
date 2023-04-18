@@ -61,7 +61,7 @@ Here are a few of my current projects and contributions:
 Project
 4) Google Clone – with Automatic Suggestions
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aryansingh920&theme=dark)](https://git.io/streak-stats)
+<hr/>
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryansingh920&label=Profile%20views&color=0e75b6&style=flat" alt="aryansingh920" /> </p>
 
@@ -80,7 +80,7 @@ Project
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryansingh920&" alt="aryansingh920" /></p>
 
-  <hr><hr/>
+  <hr/>
   ## Connect with Me
 
 You can find me on [LinkedIn]https://www.linkedin.com/in/aryan-singh-axone125/ 
