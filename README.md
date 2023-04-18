@@ -1,13 +1,10 @@
-<div align="left">
-  
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
+<div align="left">     
   <h1>
    ### Hello World 👋
   </h1>
   <h3>
    I'm Aryan Singh, a Full Stack Developer 
-    <a href="https://www.linkedin.com/in/aryan-singh-axone125/">  <i class="devicon-linkedin-plain"></i></a>
+    <a href="https://www.linkedin.com/in/aryan-singh-axone125/"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
           
   </h3>
    I am a MERN full stack developer, I do know Python, Java and C, C++.
