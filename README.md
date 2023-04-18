@@ -59,7 +59,7 @@ Here are a few of my current projects and contributions:
 Project
 4) Google Clone – with Automatic Suggestions
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aryansingh920)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aryansingh920&theme=contrast)](https://git.io/streak-stats)
 
 ## Connect with Me
 
