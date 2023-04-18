@@ -4,7 +4,7 @@
     </h1>
     <div style="display:flex; align-items: center; " >
   <h3 style="display:inline;">  I'm Aryan Singh, a Full Stack Developer</h3>
-        <a style="margin-left: 10px; margin-top: 5px;" href="https://www.linkedin.com/in/aryan-singh-axone125/"> <img height="25" width="25" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
+      <span>  <a style="margin-left: 10px; margin-top: 5px;" href="https://www.linkedin.com/in/aryan-singh-axone125/"> <img height="25" width="25" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a></span>
 </div>
 
     I am a MERN full stack developer, I do know Python, Java and C, C++. Apart from this I also have basic knowledge of Machine Learning and Blockchain development using solidity, I also know about Mobile App development using React native
