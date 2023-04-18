@@ -4,8 +4,7 @@
   </h1>
   <h3 style="display:flex;">
    I'm Aryan Singh, a Full Stack Developer 
-    <a style="margin-left:10px;" href="https://www.linkedin.com/in/aryan-singh-axone125/"> <img height=20 width=20 src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
-          
+    <a style="margin-left:10px;margin-top:5px;" href="https://www.linkedin.com/in/aryan-singh-axone125/"> <img height=20 width=20 src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
   </h3>
    I am a MERN full stack developer, I do know Python, Java and C, C++.
    Apart from this I also have basic knowledge of Machine Learning and
@@ -14,7 +13,12 @@
    have started learning AR/VR development using Unity and I'm also
    willing to learn any new technology. I have worked on several
    projects and do have industrial experience of ~1year .
+  <hr/>
+  <h4>
    ## Skills & Expertise
+  </h4>
+  
+  <div style="display:block;">
    MERN Stack:
    Javascript, HTML, CSS,
    React, Node, Express,
@@ -46,6 +50,7 @@
    Adobe Premier Pro,
    After Effects
    Cinema 4D ,
+  </div>
 
    <hr/>
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryansingh920&label=Profile%20views&color=0e75b6&style=flat" alt="aryansingh920" /> </p>
