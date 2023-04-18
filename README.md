@@ -4,7 +4,7 @@
   </h1>
   <h3>
    I'm Aryan Singh, a Full Stack Developer 
-    <a href="https://www.linkedin.com/in/aryan-singh-axone125/"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
+    <a href="https://www.linkedin.com/in/aryan-singh-axone125/"> <img height=30 width=30 src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
           
   </h3>
    I am a MERN full stack developer, I do know Python, Java and C, C++.
