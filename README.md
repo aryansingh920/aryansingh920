@@ -2,7 +2,7 @@
     <h1>
         ### Hello World 👋
     </h1>
-    <h3 style="display: inline;">
+    <h3 style="display: inline-block; vertical-align:middle;">
         I'm Aryan Singh, a Full Stack Developer
         <a style="margin-left: 10px; margin-top: 5px;" href="https://www.linkedin.com/in/aryan-singh-axone125/"> <img height="25" width="25" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
     </h3>
