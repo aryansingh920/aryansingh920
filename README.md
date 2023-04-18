@@ -1,9 +1,14 @@
 <div align="left">
+  
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
   <h1>
    ### Hello World 👋
   </h1>
   <h3>
-   I'm Aryan Singh, a Full Stack Deeveloper
+   I'm Aryan Singh, a Full Stack Developer 
+    <a href="https://www.linkedin.com/in/aryan-singh-axone125/">  <i class="devicon-linkedin-plain"></i></a>
+          
   </h3>
    I am a MERN full stack developer, I do know Python, Java and C, C++.
    Apart from this I also have basic knowledge of Machine Learning and
