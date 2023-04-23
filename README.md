@@ -1,6 +1,6 @@
 <div align="left">     
   <h1>
-   ### Hello World 👋
+   Hello World 👋
   </h1>
   <h3 style="display:flex;">
    I'm Aryan Singh, a Full Stack Developer 
