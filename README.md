@@ -4,7 +4,7 @@
   </h1>
   <h3 style="display:flex;">
    I'm Aryan Singh, a Full Stack Developer 
-    <a style="margin-left:10px;margin-top:5px;" href="https://www.linkedin.com/in/aryan-singh-axone125/"> <img height=20 width=20 src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
+    <a style="margin-left:10px;margin-top:5px;" href="https://www.linkedin.com/in/aryan-singh-axone125/"> <img height=20 width=20 src="https://cdn-icons-         png.flaticon.com/512/174/174857.png"/></a>
   </h3>
    I am a MERN full stack developer, I do know Python, Java and C, C++.
    Apart from this I also have basic knowledge of Machine Learning and
@@ -17,7 +17,6 @@
   <h4>
    ## Skills & Expertise
   </h4>
-  
   <div style="display:block;">
    MERN Stack:
    Javascript, HTML, CSS,
