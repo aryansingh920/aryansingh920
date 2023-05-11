@@ -16,7 +16,7 @@
    projects and do have industrial experience of ~1year .
   <hr/>
   <h4>
-   ## Skills & Expertise
+   Skills & Expertise
   </h4>
   <div style="display:block;">
    MERN Stack:
