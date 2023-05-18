@@ -16,6 +16,7 @@
   <h4>
    Skills & Expertise
   </h4>
+  
   <div style="display:block;">
    MERN Stack:
    Javascript, HTML, CSS,
