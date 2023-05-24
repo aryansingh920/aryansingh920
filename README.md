@@ -5,7 +5,6 @@
   <h3 style="display:flex;">
    I'm Aryan Singh, a Full Stack Developer 
   </h3>
-  
    I am a MERN full stack developer, I do know Python, Java and C, C++.
    Apart from this I also have basic knowledge of Machine Learning and
    Blockchain development using solidity, I also know about Mobile App
