@@ -1,56 +1,195 @@
+
 <div align="left">     
   <h1>
-   Hello World 👋
+   Aryan Singh
   </h1>
-  <h3 style="display:flex;">
-   I'm Aryan Singh, a Full Stack Developer 
+  <h3>
+   Full Stack Developer | DevOps Engineer | iOS Developer
   </h3>
-   I am a MERN full stack developer, I do know Python, Java and C, C++.
-   Apart from this I also have basic knowledge of Machine Learning and
-   Blockchain development using solidity, I also know about Mobile App
-   development using React native and also have a jist of flutter, I also
-   have started learning AR/VR development using Unity and I'm also
-   willing to learn any new technology. I have worked on several
-   projects and do have industrial experience of ~1year .
+  <p align="left">
+   📧 aryansingh920@outlook.com |
+   🌐 [LinkedIn](https://www.linkedin.com/in/aryan-singh-axone125/)
+  </p>
   <hr/>
+  <h2>
+   SUMMARY
+  </h2>
+  <p align="left">
+   A versatile and accomplished professional with expertise in development, infrastructure, DevOps, and iOS app
+   development. Proficient in a wide range of programming languages including Python, Java, C++, and JavaScript, with
+   extensive experience in frontend and backend development, database management, and cloud services. Skilled in
+   DevOps practices, automation tools, and machine learning frameworks. Currently expanding expertise in microservices
+   architecture, blockchain, AR/VR development, Big Data and machine learning, while keen to learn and explore new
+   technologies. Strong track record of success in project management and collaboration, demonstrated through leadership
+   roles and contributions to diverse consultancy and in-house projects.
+  </p>
+  <hr/>
+  <h2>
+   SKILLS
+  </h2>
+  <h3>
+   Development & Infrastructure
+  </h3>
+  <p align="left">
+   Languages Known: Python, Java, C++, Golang, Swift, JavaScript, Rust, C#,
+   Frontend Development: React, Next.js, Vue.js, Storybook
+   Backend Development: Node.js, Nest.js, GoFibre, Spring Boot, Django, FastAPI, Multithreading, Concurrency, Sockets, Postman
+   Database and Caching: SQL, NoSQL, Redis, GraphQL, Apollo
+  </p>
+  <h3>
+   DevOps & Automation
+  </h3>
+  <p align="left">
+   Cloud Services: Amazon Web Services, Firebase, Google Console Platform, Azure, Oracle Cloud
+   Serverless Computing: AWS Lambda
+   DevOps: Git, Shell, Docker, Jenkins, Kubernetes, CI/CD, Vault, Terraform
+   Microservice: RabbitMQ, Grafana, Apache Kafka
+   Automation: Selenium
+   Big Data: Apache Spark
+  </p>
+  <h3>
+   Specialized Technologies
+  </h3>
+  <p align="left">
+   Mobile Application Development: iOS Development (UI Kit, Swift UI)
+   Blockchain: Solidity, Solana
+   Machine Learning
+   AR/VR Development: Unity
+   Project Management and Collaboration: Jira, Trello, Confluence, Slack
+   UI/UX & Editing: Figma, Canva, Adobe (Photoshop, Illustrator, Premiere Pro, After Effects), Cinema 4D
+  </p>
+  <hr/>
+  <h2>
+   WORK EXPERIENCE
+  </h2>
+  <h3>
+   C.T.O & Co-Founder
+  </h3>
   <h4>
-   Skills & Expertise
+   March 2022 - Present
   </h4>
-  
-  <div style="display:block;">
-   MERN Stack:
-   Javascript, HTML, CSS,
-   React, Node, Express,
-   MongoDB,
-   Redux,Typescript
-   AWS: Cloud9,
-   EC2,Lambda,S3,
-   Git, Shell ,Docker,
-   Jenkins , Kubernetes
-   React Native: App
-   Development,
-   Data Structures &
-   Algorithms,
-   Adobe Photoshop,
-   Illustrator
-   Figma,Canva
-   Python: Django,
-   FastAPI , OpenCV,
-   Java, C++ , C# , R ,
-   iOS dev : swift Uikit
-   Blockchain
-   Development: Solidity,
-   Machine Learning, AI:
-   Numpy, Pandas, Scikit,
-   Tensorflow, Data
-   Visualization
-   SQL,NoSQL
-   Microsoft Excel, Word,
-   Adobe Premier Pro,
-   After Effects
-   Cinema 4D ,
-  </div>
+  <p align="left">
+   <a href="https://www.canverro.com/">Canverro</a> – Custom Apparel Social E-Commerce
+  </p>
+  <ul>
+   <li>Established the tech infrastructure for a custom apparel social e-commerce platform.</li>
+   <li>Organized and led a skilled tech team for project execution.</li>
+   <li>Managed cloud deployment on Oracle Cloud, optimizing for scalability and cost-efficiency.</li>
+   <li>Monitored performance metrics and optimized system efficiency.</li>
+   <li>Set up CI/CD pipelines for automated code deployment.</li>
+   <li>Implemented NetOps strategies for network infrastructure management.</li>
+  </ul>
+  <h3>
+   C.T.O & Co-Founder
+  </h3>
+  <h4>
+   March 2021 - Present
+  </h4>
+  <p align="left">
+   Zigy – Apparel E-Commerce (ceased operations)
+  </p>
+  <ul>
+   <li>Created the tech foundation for a simple e-commerce platform catering to apparel.</li>
+   <li>Independently managed all aspects of project execution, from design to implementation.</li>
+   <li>Successfully deployed the platform on AWS, ensuring scalability and cost-effectiveness.</li>
+   <li>Established CI/CD pipelines to automate the deployment process efficiently.</li>
+   <li>Monitored performance indicators and fine-tuned system efficiency for optimal operation.</li>
+   <li>Implemented NetOps techniques to manage network infrastructure effectively.</li>
+  </ul>
+  <hr/>
+  <h2>
+   INTERNSHIPS
+  </h2>
+  <h3>
+   Full Stack Intern
+  </h3>
+  <h4>
+   September 2023 – April 2024
+  </h4>
+  <p align="left">
+   <a href="https://www.novade.net/">Novade.net</a> (Business Partner of Maier+Vidorno)
+  </p>
+  <ul>
+   <li>Created an automated lead generation tool with advanced Excel manipulation capabilities.</li>
+   <li>Demonstrated proficiency across various technology stacks including MERN, GoFibre, Fast API, Selenium, and expertise in DevOps, NetOps, and AIOps methodologies.</li>
+  </ul>
+  <h3>
+   iOS App Development Intern
+  </h3>
+  <h4>
+   April 2023 – May 2023
+  </h4>
+  <p align="left">
+   <a href="https://www.infosys.com/">Infosys</a> (Apple Backed up Program)
+  </p>
+  <ul>
+   <li>Spearheaded the development of two comprehensive iOS mobile applications, overseeing both frontend and backend implementation.</li>
+   <li>Utilized Swift UI Kit for iOS app development and employed Node.js for backend infrastructure.</li>
+  </ul>
+  <h3>
+   Full Stack Web Development Intern
+  </h3>
+  <h4>
+   December 2022 – March 2023
+  </h4>
+  <p align="left">
+   <a href="https://nucash.money/">nucash.money</a> (Nucash)
+  </p>
+  <ul>
+   <li>Engaged in software development using the MERN stack and Next.js, alongside Golang, while leveraging cloud services.</li>
+  </ul>
+  <h3>
+   Full Stack Web Development Intern
+  </h3>
+  <h4>
+   July 2022 – January 2023
+  </h4>
+  <p align="left">
+   Chennai Metro Rails Limited (A joint venture of govt of India & govt of Tamil Nadu)
+  </p>
+  <ul>
+   <li>Designed and implemented a comprehensive Full Stack platform for collecting feedback, utilizing the MERN stack, and deploying it on Amazon Web Services (AWS).</li>
+  </ul>
+  <h3>
+   Front-End Web Development Intern
+  </h3>
+  <h4>
 
+
+   June 2022 – April 2023
+  </h4>
+  <p align="left">
+   Edue Limited (Ed-Tech Startup Based on Hong Kong)
+  </p>
+  <ul>
+   <li>Engaged in frontend development utilizing advanced technologies such as React, Next.js, and Redux.</li>
+  </ul>
+  <hr/>
+  <h2>
+   PROFESSIONAL ACHIEVEMENTS
+  </h2>
+  <ul>
+   <li>Paper Published in IEEE: Investigating Integrated Smart Tokenization and Digital Signature Management System for Secure Document Handling</li>
+   <li>Interned as a Full Stack Web and Machine Learning Development Intern at Business Wizard, contributing to the development and integration of frontend, machine learning, and backend modules for a flora and fauna guessing tool.</li>
+   <li>Developed a facial recognition app using TensorFlow, scikit-learn, and OpenCV.</li>
+   <li>Contributed to designing of an NLP Club Homepage for an in-house project.</li>
+   <li>Actively collaborating on quantum scheduling algorithm research with MeitY.</li>
+   <li>Leading groundbreaking research in mobility solution security using NFTs.</li>
+   <li>Earned certificates in MERN Stack and ML from Udemy and Coursera, with additional self-learning through YouTube courses.</li>
+   <li>Started a YouTube channel to teach efficient coding practices in web and machine learning development.</li>
+  </ul>
+  <hr/>
+  <h2>
+   EDUCATION
+  </h2>
+  <p align="left">
+   B.Tech [Computer Science] | July 2024
+   <br/>
+   SRM Institute of Science and Technology, Kattankalathur
+  </p>
+  <p align="left">
+   Higher Secondary School | 2020
+  </p>
    <hr/>
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryansingh920&label=Profile%20views&color=0e75b6&style=flat" alt="aryansingh920" /> </p>
    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryansingh920" alt="aryansingh920" /></a> </p>
