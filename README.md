@@ -8,8 +8,8 @@
   
   <p align="left">
    📧 aryansingh920@outlook.com | 📧 aryansingh_920@icloud.com | 
-   🌐 [Website](https://aryan-singh20-portfolio.netlify.app) | 
-   🌐 [Blog](https://blog-aryan-1.netlify.app) | 
+   🌐 [Website](https://www.aryan-singh.online/) | 
+   🌐 [Blog](https://aryan-singh.online/blogs) | 
    🌐 [LinkedIn](https://www.linkedin.com/in/aryan-singh-axone125/)
   </p>
   <hr/>
